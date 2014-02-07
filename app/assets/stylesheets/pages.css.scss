@@ -1,3 +1,45 @@
-// Place all the styles related to the pages controller here.
-// They will automatically be included in application.css.
-// You can use Sass (SCSS) here: http://sass-lang.com/
+/* {
+	border:1px solid black;
+}*/
+
+.summary {
+	font-size:20px;
+}
+
+.container {
+	padding:5px 0px;
+	border-bottom:1px dotted #CCCC00;
+}
+
+#history {
+	padding:60px 0px;
+}
+
+#history p {
+	padding:25px 0px;
+}
+
+h1 {
+	font-size:50px;
+}
+
+h2 {
+	font-size:35px;
+}
+
+a {
+	color:#CCCC00;
+}
+
+a:hover {
+	text-decoration:none;
+	color:grey;
+}
+
+footer {
+	font-size:16px;
+}
+
+ul {
+	font-size:14px;
+}

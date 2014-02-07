@@ -1,1 +1,1 @@
-This is my personal portfolio site using ruby 2.0.0p247 and Rails 4.0.0
+This is my personal portfolio site using ruby 2.0.0p247 and Rails 4.0.0. I'm practicing HTML/CSS concepts after completing Codecademy's course.
