@@ -3,42 +3,39 @@
 
 @media (max-width: 992px) {
 	* {text-align:center;
-		padding:0px 4px;}
+		padding:0px 3px;}
 
-	.col-md-4 {margin:5px;}
-
-	#skills {padding:0px 0px 0px 10px;}
 }
 
-.summary {
-	font-size:20px;
+* {
+	text-align:center;
 }
 
-.container {
-	padding:5px 0px;
-	font-family: 'Raleway', Verdana, sans-serif;
+header {
+	border-bottom:1px solid #CCCC00;
+	width:100%;
+	padding:15px 0px;
 }
 
-.row {
-	padding:30px 0px;
+#content {
+	padding:35px 0px;
+	margin-bottom:5px;
 }
 
-#history {
-	padding:30px 0px;
-}
-
-#history p {
-	padding:16px 0px;
+footer {
+	border-top:1px solid #CCCC00;
+	background-color:#E6F1F5;
+	padding:20px 0px 15px 0px;
 }
 
 h1 {
 	font-size:50px;
-	font-family:'Bitter', Georgia, serif;
+	font-family:"Bitter", Georgia, serif;
 }
 
 h2 {
 	font-size:35px;
-	font-family:'Bitter', Georgia, serif;
+	font-family:"Bitter", Georgia, serif;
 }
 
 a {
@@ -51,13 +48,14 @@ a:hover {
 	color:grey;
 }
 
-footer {
+p {
+	font-family: "Raleway", Verdana, sans-serif;
 	font-size:16px;
-	border-top:1px solid #CCCC00;
-	background-color:#E6F1F5;
 }
 
 ul {
-	font-size:16px;
 	list-style:none;
+	padding:0px 15px 0px 15px;
+	font-family: "Raleway", Verdana, sans-serif;
+	font-size:14px;
 }
